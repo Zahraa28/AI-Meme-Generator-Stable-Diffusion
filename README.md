@@ -1,7 +1,7 @@
 # 🎭 AI Meme Generator – Stable Diffusion
 
 <p>
-  <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133631.jpg>
+  <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133606.jpg>
 
   <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133553.jpg>
 
