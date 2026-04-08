@@ -1,12 +1,12 @@
 # 🎭 AI Meme Generator – Stable Diffusion
 <p display=flex >
-  <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133606.jpg width=250px >
+  <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133606.jpg width=220px >
 
-  <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133553.jpg width=250px >
+  <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133553.jpg width=220px >
 
-  <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133619.jpg width=250px >
+  <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133619.jpg width=220px >
 
-  <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133631.jpg width=250px >
+  <img src = https://github.com/Zahraa28/AI-Meme-Generator-Stable-Diffusion/blob/main/IMG_20260408_133631.jpg width=220px >
 </p>
 
 ## 📌 Project Overview
